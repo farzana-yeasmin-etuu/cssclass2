@@ -1,0 +1,27 @@
+*{background-color: darkgray;
+
+background-image: url("picsss/download%20(1).jpeg");
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;}
+
+h1{ color: aqua;
+border-style: solid dotted dashed ridge;;
+border-width: 5px 10px 10px 5px;
+border-color: red blue yellow green;}
+
+p{color:red;}
+
+.class p{color:blue;}
+
+.class h1{color: saddlebrown;
+
+
+}
+#a{ background-color: darkgreen;}
+
+.class #pfirst{
+    
+    background-color: aquamarine;
+}
